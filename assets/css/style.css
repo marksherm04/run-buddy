@@ -82,10 +82,10 @@ section {
 }
 /* Hero Style End */
 
-/* Hero Box Style */
+
 .hero-form {
   
-  border: solid 3px #024e76;
+  border: 3px solid  #024e76;
   background-color: #fce138;
   padding: 20px;
   width: 500px;
@@ -126,4 +126,3 @@ section {
   font-size: 16px;
 }
 
-/* Hero Style End */
