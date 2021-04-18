@@ -14,4 +14,3 @@ A website that offers fitness training services.
 Made with ❤️ by [Mark Sherman]
 
 ### ©️2019 Run Buddy, Inc 
-git sta
