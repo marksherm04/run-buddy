@@ -32,6 +32,7 @@ header h1 {
   color: #fce138;
   margin: 0;
   text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  text-align: center
 }
 
 /* Apples to header a */
